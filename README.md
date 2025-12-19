@@ -21,4 +21,9 @@ Hospitals often face challenges such as:
 - Enabling staff to monitor patient queues efficiently.
 
 **Links to the documentation**
- https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Documentation
+ - [Documentation]{https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Documentation}
+ - [Database]{https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/database}
+ - [Screenshots]{https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Screenshots}
+ - [Business Intelligence]{https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Business-Intelligence}
+ - [Queries]{https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Queries}
+ 

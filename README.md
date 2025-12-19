@@ -21,13 +21,12 @@ Hospitals often face challenges such as:
 - Enabling staff to monitor patient queues efficiently.
 
 **4. Quick start instructions**
-**.** There are 6 branches in this repository.
-**.** Each branch contains the final results of what's been done in the project. 
+-There are 6 branches in this repository.
+-Each branch contains the final results of what's been done in the project. 
 
 **Links to the documentation**
- - [Documentation](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Documentation)
- - [Database](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/database)
- - [Screenshots](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Screenshots)
- - [Business Intelligence](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Business-Intelligence)
- - [Queries](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Queries)
- 
+- [Documentation](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Documentation)
+- [Database](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/database)
+- [Screenshots](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Screenshots)
+- [Business Intelligence](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Business-Intelligence)
+- [Queries](https://github.com/hirhubert07/eGENZURA-DB-REPO/tree/Queries)
